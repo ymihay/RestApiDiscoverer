@@ -16,4 +16,6 @@ public enum HttpMethod {
 
     private HttpMethod() {
     }
+
+    /** TEXT this */
 }
